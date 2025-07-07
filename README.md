@@ -1,4 +1,4 @@
-![image info](./phantomText.jpg)
+![image info](./phantomText(1).jpg)
 
 # PhantomText
 
