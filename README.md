@@ -2,8 +2,7 @@
 
 # PhantomText
 
-This is the repository for PhantomText Toolkit - A modular framework to inject
-invisible text in PDF, DOCX and HTML sources, which we developed for our paper
+Official experiment repo of our paper
 "The Hidden Threat in Plain Text: Attacking RAG Data Loaders" submitted to
 ACM AISec 2025.
 
