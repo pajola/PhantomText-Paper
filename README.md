@@ -14,6 +14,7 @@ ACM AISec 2025.
 # Package
 
 We released a PyPI package to assess if your documents contain hidden content quickly.
+With this package, you can also generate new documents with hidden concepts, or santize them. 
 
     pip install phantomtext
 
