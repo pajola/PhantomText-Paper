@@ -11,6 +11,12 @@ ACM AISec 2025.
 (notebooks)[notebooks] contains the code used in the experiments
 (results)[results] contains the raw results of the experiments
 
+# Package
+
+We released a PyPI package to assess if your documents contain hidden content quickly.
+
+    https://pypi.org/project/phantomtext/
+
 
 ## Cite
 
