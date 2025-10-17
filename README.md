@@ -18,6 +18,8 @@ With this package, you can also generate new documents with hidden concepts, or 
 
     pip install phantomtext
 
+[PhantomText GitHub Repository](https://github.com/pajola/PhantomText)
+
 
 ## Cite
 
